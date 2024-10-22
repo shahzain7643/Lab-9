@@ -1,7 +1,14 @@
-<style>
-h1{
-    font-style: bold;
+.first-div{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    Border-width: 3px;
+    border-color: blue;
+    border-radius: 20%;
+    margin:10px ;
+    padding: 5px;
 }
-
-
-</style>
+p{
+    color: black;
+    font-size: 70px;
+}
